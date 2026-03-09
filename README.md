@@ -149,7 +149,7 @@ cd Documents
 ### Step 4: Clone the Repository
 Copy the repository URL from GitHub, then run:
 ```bash
-git clone https://github.com/yourusername/mini-compiler.git
+git clone https://github.com/roonakyadav/mini-compiler.git
 ```
 
 ### Step 5: Enter the Project Directory
