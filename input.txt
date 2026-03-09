@@ -1,0 +1,6 @@
+// Mini Compiler Test Program
+// This demonstrates multiple statements and comments
+
+a = b + c * d
+x = y * z + k
+result = a + x -5
